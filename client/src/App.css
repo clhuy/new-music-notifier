@@ -1,14 +1,14 @@
-.App {
+/*.App {
   text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 25s linear;
   height: 40vmin;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #191414;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #1db954;
 }
 
 @keyframes App-logo-spin {
@@ -29,4 +29,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+*/
+
+.App {
+  text-align: center;
+}
+
+/* client/src/App.css */
+div, button {
+  margin: 10px;
 }
