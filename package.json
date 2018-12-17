@@ -1,0 +1,29 @@
+{
+  "name": "now-playing-spotify",
+  "version": "1.0.0",
+  "description": "React application, with spotify API",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "request": "^2.88.0",
+    "spotify-web-api-js": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clhuy/now-playing-spotify.git"
+  },
+  "author": "Le Huy Cu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clhuy/now-playing-spotify/issues"
+  },
+  "homepage": "https://github.com/clhuy/now-playing-spotify#readme",
+  "engines": {
+    "node": "v10.9.0"
+  }
+}
